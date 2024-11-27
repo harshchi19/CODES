@@ -1,0 +1,11 @@
+ifconfig
+ping (domain name) Ex. ping google.com
+tracert
+netstat
+arp –a
+nslookup
+hostname
+net
+netsh /?
+pathping
+systeminfo
